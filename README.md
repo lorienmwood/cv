@@ -14,7 +14,6 @@ _Full-Stack Developer Student based in London 🇬🇧_ <br>
 
 🇺🇸 **English**: Native <br>
 <br><br>
-
 ## 👩🏼‍🎓 Education
 
 **01 Founders course** in full-stack development<br>
