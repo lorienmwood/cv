@@ -1,6 +1,6 @@
 # Lorien Wood
 
-_ Full-Stack Developer Student based in London 🇬🇧_ <br>
+_Full-Stack Developer Student based in London 🇬🇧_ <br>
 
 [Email](mailto:lorienmwood@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lorienwood) / [GitHub] 
 
