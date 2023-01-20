@@ -2,7 +2,7 @@
 
 _ Full-Stack Developer Student based in London 🇬🇧_ <br>
 
-[Email](mailto:lorienmwood@gmail.com) / [Website] / [LinkedIn] / [GitHub] / 
+[Email](mailto:lorienmwood@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lorienwood) / [GitHub] 
 
 ## 👩🏼‍💻 Engineering Experience
 
