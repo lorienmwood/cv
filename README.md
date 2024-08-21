@@ -13,11 +13,11 @@ _Computer Science Student based in London 🇬🇧_ <br>
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
+🇺🇸 **English**: Native
 <br>
 ## 👩🏼‍🎓 Education
-**Goldsmiths Univeristy**, BSc Computer Science<br>
+**BSc Computer Science** at Goldsmiths Univeristy<br>
 [Goldsmiths University](https://www.gold.ac.uk/) - London, UK _(Sep 2023 - Sep 2026)_ <br>
 
-Coding School focused on full-stack development <br>
+**Coding School** focused on full-stack development <br>
 [01 Founders](https://01founders.co/) - London, UK _(Sep 2022 - June 2023)_ <br>
